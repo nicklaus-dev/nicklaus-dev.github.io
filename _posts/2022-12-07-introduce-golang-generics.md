@@ -5,9 +5,9 @@ date: 2022-12-07 16:50 +0800
 categories: [golang, basics]
 tags: [golang]
 ---
-# What is generics syntax sugar in golang?
+# What is generics syntax sugar in go
 
-> Look at following code snippet
+> Let's look at the following code snippet.
 
 ```go
 type Number interface {
@@ -22,3 +22,7 @@ func sum[T Number](nums []T) T {
 	return result
 }
 ```
+
+# When to use generics in go
+
+# Some tips of using generics
