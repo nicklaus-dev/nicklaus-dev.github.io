@@ -2,7 +2,7 @@
 layout: post
 title: Introduce golang generics
 date: 2022-12-07 16:50 +0800
-categories: [golang, basics]
+categories: [golang]
 tags: [golang]
 ---
 # What is generics syntax sugar in go
