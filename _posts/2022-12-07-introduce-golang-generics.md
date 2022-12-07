@@ -113,4 +113,4 @@ func main() {
 
 - Don't use generics for practice generics syntax, but for erasing duplicated code.
 - Don't define `func` type with generics, it don't work! Because generics will be compiled to real type in compiling.
-- Don't use generics in define `interface`.
+- Don't use generics in defining `interface`.
