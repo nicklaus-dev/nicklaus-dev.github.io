@@ -16,8 +16,11 @@ go install gorm.io/gen/tools/gentool@latest
 ```shell
 gentool -dsn "user:pwd@tcp(localhost:3306)/database?charset=utf8mb4&parseTime=True&loc=Local" -tables "orders,doctor"
 ```
+
 ## Basic CRUD method generation
+
 > Run following code with `go run main.go`
+
 ```go
 package main
 
