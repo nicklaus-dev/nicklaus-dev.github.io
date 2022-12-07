@@ -19,9 +19,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Nicklaus Dev                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: technique notes of nicklaus   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -31,10 +31,10 @@ domain: nicklaus-dev.github.io
 url: https://nicklaus-dev.github.io
 
 github:
-  username: github_username             # change to your github username
+  username: nicklaus-dev             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: LiuNicklaus            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar/avatar.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
