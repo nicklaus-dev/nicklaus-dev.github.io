@@ -24,7 +24,7 @@ title: Nicklaus Dev                          # the main title
 tagline: technique notes of nicklaus   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  There are some technique notes of nicklaus.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 domain: nicklaus-dev.github.io
