@@ -32,4 +32,7 @@ We should write different plans about web application before we decide to coding
 - Clear and standardized interface document
 - Reasonable scheduling
 
-## Estimate Duplicated Processes and Code
+## Estimate Duplicated Processes and Codes
+
+- Use script to estimate duplicated processes
+- Use Code generation cli to estimate duplicated codes
