@@ -20,3 +20,16 @@ category: [development]
 - Perform synchronous code review.
 - Have a fast build.
 - Create a core group of advocates and mentors.
+
+## Brainstorm before Development
+
+We should write different plans about web application before we decide to coding. And we start a brainstorm in our team, each member put different opinions. Finally, we make a approved plan as the final development guideline.
+
+### The Contents of Good Development Plan
+
+- There is a brief outline about the whole plan.
+- Use flowchart or architecture chart to explain plan.
+- Clear and standardized interface document
+- Reasonable scheduling
+
+## Estimate Duplicated Processes and Code
